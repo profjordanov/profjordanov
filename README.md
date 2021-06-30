@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Software+Architect)](https://git.io/typing-svg)
 
-<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/temp/coding-person.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
 
 ## 🙋‍♂️ About Me
 
