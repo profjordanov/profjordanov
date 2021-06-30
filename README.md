@@ -37,8 +37,18 @@ Additionally, I am assistant professor and PhD candidate in the University of Ec
 </p>
 
 <br>
-
 <hr/>
+
+## 📊 My Github Stats
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayushparikh-code&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayushparikh-code&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushparikh-code&theme=tokyonight" align="center" />
+</p>
+
+<details> <summary align="center"> </samp></summary><b>Note:</b> Most Used languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</details>
+
+---
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" alt="Jordan's github stats" />
 
