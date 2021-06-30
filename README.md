@@ -43,7 +43,7 @@ Additionally, I am assistant professor and PhD candidate in the University of Ec
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=profjordanov&include_all_commits=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profjordanov&include_all_commits=true&theme=radical" align="center" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
 </p>
 
 ---
