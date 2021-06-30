@@ -1,26 +1,15 @@
-<div align="center">
-   <h1>Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
-</div>
+<h1 align="center">Hey there, I'm Yordan Yordanov <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-- 👀 Open source contributor
-- 👾 Kubernetes, Docker, .NET Core and React
-- 👑 DDD, CQRS, TDD
-- 🤝 Always open for cooperation
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=330033&center=true&vCenter=true&width=900&height=110&lines=Passionate+Developer;Programmer;Software+Architect)](https://git.io/typing-svg)
 
-<!--
-**profjordanov/profjordanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="Coding" width="400" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif">
 
-Here are some ideas to get you started:
+## 🙋‍♂️ About Me
+I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and JavaScript technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additionally, I am assistant professor and PhD candidate in the University of Economics – Varna. 
+
+<br>
 
 <hr/>
 
