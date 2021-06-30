@@ -46,8 +46,3 @@ Additionally, I am assistant professor and PhD candidate in the University of Ec
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
 </p>
 
----
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" alt="Jordan's github stats" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
