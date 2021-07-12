@@ -8,7 +8,9 @@
 
 I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and JavaScript technologies.
 
-Additionally, I am assistant professor and PhD candidate in the University of Economics – Varna. 
+Additionally, I am assistant professor and PhD candidate in
+
+[![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
 
 ## 🚀 Languages and Tools:
 
