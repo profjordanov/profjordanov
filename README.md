@@ -40,7 +40,7 @@ Additionally, I am assistant professor and PhD student in
 
 ## 📊 My Github Stats
 <p align="center">
-  <img width="30%" src="https://github-readme-stats.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" />
-  <img width="30%" src="https://github-readme-streak-stats.herokuapp.com/?user=profjordanov&include_all_commits=true&theme=radical" />
-  <img width="20%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=profjordanov&show_icons=true&include_all_commits=true&theme=radical" />
+  <img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=profjordanov&include_all_commits=true&theme=radical" />
+  <img width="25%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=profjordanov&layout=compact&theme=radical" />
 </p>
