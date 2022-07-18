@@ -8,7 +8,7 @@
 
 I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and JavaScript technologies.
 
-Additionally, I am assistant professor and PhD student in
+Additionally, I am assistant professor and a PhD student in
 
 [![University project](https://img.shields.io/badge/University%20of%20Economics-Varna-red)](https://www.ue-varna.bg/)
 
