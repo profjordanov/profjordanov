@@ -1,5 +1,6 @@
 <img align="right" alt="Coding" width="400" src="https://github.com/profjordanov/profjordanov/blob/main/coding-person.gif">
-# 🙋‍♂️ About Me
+
+## 🙋‍♂️ About Me
 
 Hey there, my name is Jordan Jordanov. I am currently working as a developer in a large software team, delivering features on a daily basis. My passions are the modern C# and JavaScript technologies.
 
